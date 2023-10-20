@@ -23,7 +23,7 @@ CREATE TABLE "breweries" (
      )
 );
 
-CREATE TABLE "store" (
+CREATE TABLE "stores" (
     "Name" varchar   NOT NULL,
     "Address" varchar   NOT NULL,
     "Contact" varchar   NOT NULL,
@@ -33,7 +33,7 @@ CREATE TABLE "store" (
      )
 );
 
-CREATE TABLE "beer_in_store" (
+CREATE TABLE "beers_in_store" (
     "Name" varchar   NOT NULL,
     "QTY" varchar   NOT NULL,
     "Price" varchar   NOT NULL,
@@ -43,6 +43,6 @@ CREATE TABLE "beer_in_store" (
 ALTER TABLE "beers" ADD CONSTRAINT "fk_beers_BreweryID" FOREIGN KEY("BreweryID")
 REFERENCES "breweries" ("BreweryID");
 
-ALTER TABLE "beer_in_store" ADD CONSTRAINT "fk_beer_in_store_StoreID" FOREIGN KEY("StoreID")
-REFERENCES "store" ("StoreID");
+ALTER TABLE "beers_in_store" ADD CONSTRAINT "fk_beers_in_store_StoreID" FOREIGN KEY("StoreID")
+REFERENCES "stores" ("StoreID");
 
