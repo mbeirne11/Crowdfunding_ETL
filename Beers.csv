@@ -1,0 +1,146 @@
+Name,Style,ABV,BreweryID,BeerID
+"Ah, Sure Look",Dark Lager ,5.5,1,0
+BLVD ’89,Lager,4.5,1,1
+Bob’s ’47 Oktoberfest,Oktoberfest / Märzen,5.9,1,2
+Cranberry Tank 7,Smokestack Limited Release ,8.5,1,3
+Dark Crator,Barrel-Aged Dopplebock ,12.5,1,4
+Frozen Raider,Double Cold IPA ,8.0,1,5
+Joker’s Wit,Belgian-style Double Witbier ,7.4,1,6
+Pale Ale,American Pale Ale,5.4,1,7
+Southwest BLVD,Lager with Salt & Lime ,4.5,1,8
+Space Camper Cosmic IPA,India Pale Ale,5.9,1,9
+Strawberry Wheat,Limited Release ,4.4,1,10
+Tank 7,American Saison Ale,8.5,1,11
+Unfiltered Wheat Beer,Hazy American Classic,4.4,1,12
+Berry Noir,Sour Ale with Mixed Berries,4.2,1,13
+Bourbon Barrel Quad,Barrel-Aged Ale,12.2,1,14
+Dark Truth Stout,Imperial Stout,9.7,1,15
+Flying Start,Non-Alcoholic IPA,0.5,1,16
+Rye on Rye,Whiskey Barrel-Aged Ale ,12.2,1,17
+Single-Wide IPA,American India Pale Ale,5.7,1,18
+The Sixth Glass,Quadrupel Ale,10.2,1,19
+Whiskey Barrel Stout,Barrel-Aged Imperial Stout,11.8,1,20
+Another Round,Imperial Wheat Beer ,8.0,1,21
+Barrel-Aged Imperial Porter,Brewer's Choice ,13.9,1,22
+Barrel-Aged Imperial Stout And Barleywine Blend,Brewer's Choice ,14.2,1,23
+Barrel-Aged Wheat Wine,Firestone Walker Brewery Collaboration ,9.9,1,24
+Belgian Abbey-Style,Single ,5.2,1,25
+Bière De Garde,Brewer's Choice - Rob & Sterling ,5.9,1,26
+Brewa Bunga Cove,"Imperial Golden Stout with Coffee, Hazelnut and Vanilla",8.0,1,27
+Buck O’Neil – Barrel-Aged Saison,Chardonnay Barrel-Aged Saison,9.0,1,28
+Chocolate Ale (2023),Ale with cacao nibs and vanilla extract,8.7,1,29
+Chocolate-Cherry Dipped,Imperial Stout ,15.0,1,30
+Churro Grande,Barrel-Aged Imperial Brown ,12.0,1,31
+Cinnamon Bun Ale,Imperial Brown Ale With Cinnamon And Vanilla,9.5,1,32
+Crème Brûlée,Barleywine Ale,13.3,1,33
+Cybersonic C-Hops,Double IPA,8.5,1,34
+Dank 7,Belgian-style IPA ,7.0,1,35
+Dream Vision,Orange Vanilla Ale ,5.7,1,36
+Five Bourbon Barrel Imperial Stout,Brewer's Choice ,13.3,1,37
+Ginger Lemon Radler,Radler,4.1,1,38
+Irish Ale,Irish Red Ale,5.8,1,39
+Magic Drip,Barrel-Aged Wheated Imperial Stout with Colombian Coffee,13.5,1,40
+Mango Jungle,Uncharted Ale ,4.2,1,41
+Maple Mood,Barrel-Aged Imperial Stout ,12.5,1,42
+Milk Stout,Brewer's Choice ,5.8,1,43
+More S’more,Barrel-Aged Imperial Stout ,11.8,1,44
+Nutcracker Ale,Winter Warmer,7.8,1,45
+Proper Pour,Double barrel-aged imperial stout,13.8,1,46
+Proper Pour – 2023,Double barrel-aged imperial stout aged in cabernet barrels ,12.6,1,47
+Rum Barrel-Aged Spice Cake,Imperial Brown Ale,12.7,1,48
+Saison,Brewer's Choice ,5.9,1,49
+Space Camper Hyper Warp,Black IPA,5.9,1,50
+Space Camper Red Spectra,Red IPA,5.7,1,51
+Space Camper | Alpha Vapor,Nebulous IPA,5.9,1,52
+Space Camper | Delta Ray IPA,Intergalactic Hazy IPA ,4.4,1,53
+Space Camper | Gigahop IPA,Dual Hemisphere IPA,5.9,1,54
+Space Camper | Lotus Aura,India Pale Ale,4.9,1,55
+Space Camper | Nova Flare,West Coast-Style IPA ,5.9,1,56
+Space Camper | Star Haze,India Pale Ale,5.9,1,57
+Teal Rising,Proud Pilsner ,4.0,1,58
+Tenpenny,American Bitter ,4.2,1,59
+Terror From the Deep,Double IPA ,8.0,1,60
+Tropic Slam,Tart Island Ale ,4.2,1,61
+Unfiltered Grapefruit Wheat,Hazy American Classic,4.4,1,62
+Zon,Belgian-Style Witbier,4.4,1,63
+Rad AF,IPA - New England,6.4,2,64
+High Society,Lager - American,4.8,2,65
+Hell Yeah,Wheat Beer - American Pale Wheat,5.2,2,66
+Daydrinker,IPA - New England,6.6,2,67
+Space Dragon,IPA - New England,6.0,2,68
+Creative Juice,Pale Ale - New England,5.8,2,69
+Book Smart,IPA - New England,6.4,2,70
+Oktoberfest,Märzen,6.0,2,71
+Strawberry Shortcake Bar,IPA - Milkshake,8.5,2,72
+Rad Hops of Destiny,IPA - New England,7.3,2,73
+Words Are Hard,Bock - Maibock,6.8,2,74
+Mango Tango Dreamwave,Sour - Fruited,6.6,2,75
+Homestead Peach,Cider - Other Fruit,5.0,2,76
+Pineapple Mango Hard Seltzer,Hard Seltzer,4.0,2,77
+Crossroads Apfel,Cider - Traditional,7.9,2,78
+Fest Bier,Festbier,5.8,2,79
+This Meeting Could've Been An Email,IPA - Imperial,7.8,2,80
+Sidewalk Surfer,IPA - Imperial,8.0,2,81
+Bier Co Light,Light German-Style Pilsner,3.5,3,82
+Dunkel,Munich-Style Brown Lager,5.0,3,83
+Hefeweizen,Bavarian-Style Wheat Ale,5.2,3,84
+Helles Lager,Munich-Style Golden Lager,5.1,3,85
+Hop Spritz,Hop-Infused Refresher,0.0,3,86
+Never Say IPA,India Pale Ale,5.8,3,87
+Pure Pils,German-Style Pilsner,4.8,3,88
+Kölsch,Köln-Style Golden Ale,4.8,3,89
+Festbier,Vienna-Style Lager,5.5,3,90
+Schwarzbier,Black Lager,5.0,3,91
+Schwarzbock,Black Doppelbock Lager,7.4,3,92
+Heim Bier,Bohemian-Style Export Lager,5.5,3,93
+Winterbock,Dark Doppelbock Lager,8.25,3,94
+Zoigl Bier,Zoigl Lager,4.8,3,95
+Äpfel Cider,Apple Cider (Gluten-Free),5.0,3,96
+ArrowRed Lager,Nürnberg-Style Red Lager (Rotbier),5.2,3,97
+Hard Way IPA,IPA,7.5,4,98
+Belgian Style Abbey Ale,Ale,7.2,4,99
+Survival Blond,,5.9,4,100
+Operation: Yoga Pants ,,4.8,4,101
+Hazy Way IPA,IPA,6.4,4,102
+Citrus Wheat,Wheat,5.5,4,103
+Martin City Wheat,Wheat,4.1,4,104
+Fireside Porter,,7.5,4,105
+Winter Warmer,Winter Warmer,7.5,4,106
+"Love, Coffee Stout",Stout,6.0,4,107
+Café Blond,,5.3,4,108
+Lemongrass Saison,Saison,4.7,4,109
+Double Berry Sour,Sour,4.8,4,110
+Curveball,,5.6,4,111
+Hard Ball Wheat IPA,Wheat,6.5,4,112
+Pink Lemonade Ale,Ale,4.0,4,113
+Irish High Five,Irish,6.0,4,114
+Donut Stout,Stout,6.0,4,115
+Fall Back Brown,Brown,5.4,4,116
+Oktoberfest Märzen Lager,Oktoberfest,5.8,4,117
+Pub Ale,Ale,4.8,4,118
+Mocha Stout,Stout,7.5,4,119
+Block Party Lemon Strawberry Ale,Ale,4.7,4,120
+Idle Pale Ale,Ale,4.6,4,121
+Shaka IPA,IPA,5.0,4,122
+Easy Way IPA,IPA,5.4,4,123
+Coastline IPA,IPA,7.0,4,124
+Showtime IPA,IPA,6.0,4,125
+Double Secret Hard Way IPA,IPA,9.1,4,126
+One Hop IPA,IPA,8.0,4,127
+Radical Candor Double IPA,IPA,8.9,4,128
+Jackpot IPA,IPA,7.0,4,129
+King Martin,,10.1,4,130
+Hop House Saison,Saison,7.9,4,131
+Bourbon Barrel Abbey,,7.2,4,132
+The Poitier,,9.3,4,133
+Kentucky Friar,,11.8,4,134
+Anniversary Stout,Stout,11.0,4,135
+Yes Way José with Lime,with,4.7,4,136
+Rich with Love,with,9.5,4,137
+Old Glory Pilsner,Pilsner,5.0,4,138
+Holiday Apple Ale,Ale,4.8,4,139
+Peanut Butter Porter,,5.5,4,140
+Forgotten Farmhouse Ale,Ale,6.2,4,141
+Yes Way José,,4.7,4,142
+Apple Ale,Ale,4.8,4,143
+Anniversary Abbey,,13.0,4,144
